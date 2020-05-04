@@ -5,6 +5,7 @@ body{
     text-align: center;
     font-family: 'Oswald', sans-serif;
     color: #565d47;
+    margin: auto;
 }
 
 .btn {
@@ -40,7 +41,6 @@ margin-top: 10px;
 .computer{
     height: 50%;
     width: 50%;
-    float:left;
     margin-right: 30px;
     margin-bottom: 50px;
 }
@@ -96,6 +96,7 @@ hr {
 
 #mountain {
     vertical-align: bottom;
+    margin: auto;
 }
 
 .prowebdeveloper{
@@ -109,12 +110,12 @@ clear:left;
 .snowboardimg{
     height: 50%;
     width: 50%;
-    float: right;
     clear: right;
 }
 
 .top-container {
     background: linear-gradient(lightblue, lightcoral);
+    margin: auto;
 }
 
 }
