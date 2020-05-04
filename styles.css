@@ -116,6 +116,7 @@ clear:left;
 .top-container {
     background: linear-gradient(lightblue, lightcoral);
     margin: auto;
+    background-size: cover;
 }
 
 }
