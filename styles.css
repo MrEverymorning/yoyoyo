@@ -5,7 +5,8 @@ body{
     text-align: center;
     font-family: 'Oswald', sans-serif;
     color: #565d47;
-    background-size: cover;
+    height: 100%;
+    overflow: auto;
 }
 
 .btn {
@@ -113,10 +114,6 @@ clear:left;
     clear: right;
 }
 
-.top-container {
-    background: linear-gradient(lightblue, lightcoral);
-}
-
 }
 
 .pro{
@@ -140,4 +137,8 @@ clear:left;
 
 .snowboardh{
     margin-top: 50px;
+}
+
+.top-container {
+    background: linear-gradient(lightblue, lightcoral);
 }
